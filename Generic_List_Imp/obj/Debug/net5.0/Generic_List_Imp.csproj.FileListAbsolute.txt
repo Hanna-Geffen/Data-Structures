@@ -1,0 +1,16 @@
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\bin\Debug\net5.0\Generic_List_Imp.exe
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\bin\Debug\net5.0\Generic_List_Imp.deps.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\bin\Debug\net5.0\Generic_List_Imp.runtimeconfig.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\bin\Debug\net5.0\Generic_List_Imp.runtimeconfig.dev.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\bin\Debug\net5.0\Generic_List_Imp.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\bin\Debug\net5.0\ref\Generic_List_Imp.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\bin\Debug\net5.0\Generic_List_Imp.pdb
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\obj\Debug\net5.0\Generic_List_Imp.csproj.AssemblyReference.cache
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\obj\Debug\net5.0\Generic_List_Imp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\obj\Debug\net5.0\Generic_List_Imp.AssemblyInfoInputs.cache
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\obj\Debug\net5.0\Generic_List_Imp.AssemblyInfo.cs
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\obj\Debug\net5.0\Generic_List_Imp.csproj.CoreCompileInputs.cache
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\obj\Debug\net5.0\Generic_List_Imp.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\obj\Debug\net5.0\ref\Generic_List_Imp.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\obj\Debug\net5.0\Generic_List_Imp.pdb
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\obj\Debug\net5.0\Generic_List_Imp.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\bin\Debug\net5.0\Generic_List.exe
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\bin\Debug\net5.0\Generic_List.deps.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\bin\Debug\net5.0\Generic_List.runtimeconfig.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\bin\Debug\net5.0\Generic_List.runtimeconfig.dev.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\bin\Debug\net5.0\Generic_List.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\bin\Debug\net5.0\ref\Generic_List.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\bin\Debug\net5.0\Generic_List.pdb
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\obj\Debug\net5.0\Generic_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\obj\Debug\net5.0\Generic_List.AssemblyInfoInputs.cache
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\obj\Debug\net5.0\Generic_List.AssemblyInfo.cs
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\obj\Debug\net5.0\Generic_List.csproj.CoreCompileInputs.cache
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\obj\Debug\net5.0\Generic_List.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\obj\Debug\net5.0\ref\Generic_List.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\obj\Debug\net5.0\Generic_List.pdb
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Generic_List_Imp\obj\Debug\net5.0\Generic_List.genruntimeconfig.cache
