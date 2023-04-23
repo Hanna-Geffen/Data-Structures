@@ -1,0 +1,16 @@
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Stack_Imp\bin\Debug\net5.0\Stack.exe
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Stack_Imp\bin\Debug\net5.0\Stack.deps.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Stack_Imp\bin\Debug\net5.0\Stack.runtimeconfig.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Stack_Imp\bin\Debug\net5.0\Stack.runtimeconfig.dev.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Stack_Imp\bin\Debug\net5.0\Stack.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Stack_Imp\bin\Debug\net5.0\ref\Stack.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Stack_Imp\bin\Debug\net5.0\Stack.pdb
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Stack_Imp\obj\Debug\net5.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Stack_Imp\obj\Debug\net5.0\Stack.AssemblyInfoInputs.cache
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Stack_Imp\obj\Debug\net5.0\Stack.AssemblyInfo.cs
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Stack_Imp\obj\Debug\net5.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Stack_Imp\obj\Debug\net5.0\Stack.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Stack_Imp\obj\Debug\net5.0\ref\Stack.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Stack_Imp\obj\Debug\net5.0\Stack.pdb
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Stack_Imp\obj\Debug\net5.0\Stack.genruntimeconfig.cache
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Stack_Imp\obj\Debug\net5.0\Stack.csproj.AssemblyReference.cache
