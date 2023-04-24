@@ -1,0 +1,16 @@
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Binary_Tree_Imp\bin\Debug\net5.0\Binary_Tree.exe
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Binary_Tree_Imp\bin\Debug\net5.0\Binary_Tree.deps.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Binary_Tree_Imp\bin\Debug\net5.0\Binary_Tree.runtimeconfig.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Binary_Tree_Imp\bin\Debug\net5.0\Binary_Tree.runtimeconfig.dev.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Binary_Tree_Imp\bin\Debug\net5.0\Binary_Tree.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Binary_Tree_Imp\bin\Debug\net5.0\ref\Binary_Tree.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Binary_Tree_Imp\bin\Debug\net5.0\Binary_Tree.pdb
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Binary_Tree_Imp\obj\Debug\net5.0\Binary_Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Binary_Tree_Imp\obj\Debug\net5.0\Binary_Tree.AssemblyInfoInputs.cache
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Binary_Tree_Imp\obj\Debug\net5.0\Binary_Tree.AssemblyInfo.cs
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Binary_Tree_Imp\obj\Debug\net5.0\Binary_Tree.csproj.CoreCompileInputs.cache
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Binary_Tree_Imp\obj\Debug\net5.0\Binary_Tree.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Binary_Tree_Imp\obj\Debug\net5.0\ref\Binary_Tree.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Binary_Tree_Imp\obj\Debug\net5.0\Binary_Tree.pdb
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Binary_Tree_Imp\obj\Debug\net5.0\Binary_Tree.genruntimeconfig.cache
+C:\Users\hanna\Desktop\Hanna-Geffen\Data_Structures_Implementation\Binary_Tree_Imp\obj\Debug\net5.0\Binary_Tree.csproj.AssemblyReference.cache
